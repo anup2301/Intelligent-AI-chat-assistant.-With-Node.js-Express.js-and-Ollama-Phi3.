@@ -1,0 +1,14 @@
+{
+  "username": "sample_user",
+  "createdAt": "2025-08-30T10:49:07.277Z",
+  "conversations": [],
+  "settings": {
+    "voiceEnabled": true,
+    "theme": "light"
+  },
+  "statistics": {
+    "totalQuestions": 0,
+    "totalSessions": 0,
+    "lastActivity": "2025-08-30T10:49:07.277Z"
+  }
+}

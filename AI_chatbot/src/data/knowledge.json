@@ -1,0 +1,95 @@
+
+{
+  "company": {
+    "name": "Premade Innovation",
+    "description": "A cutting-edge technology company focused on innovative software and AI solutions",
+    "mission": "To revolutionize industries through intelligent automation and innovative software solutions",
+    "vision": "To be the leading provider of AI-powered business solutions globally",
+    "founded": "2020",
+    "headquarters": "Tech Hub, Innovation City",
+    "employees": "50-100",
+    "specialties": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Software Development",
+      "Business Automation",
+      "Data Analytics"
+    ]
+  },
+  "founders": {
+    "ceo": "Manish Chandra",
+    "role": "Chief Executive Officer & Founder",
+    "background": "Technology visionary with 15+ years in AI and software development",
+    "expertise": [
+      "AI Strategy",
+      "Product Development",
+      "Business Leadership"
+    ]
+  },
+  "services": {
+    "AI Development": "Custom AI solutions for businesses",
+    "Software Development": "Full-stack web and mobile applications",
+    "Data Analytics": "Business intelligence and data visualization",
+    "Consulting": "Technology strategy and digital transformation",
+    "Automation": "Process automation and workflow optimization"
+  },
+  "careers": {
+    "openPositions": [
+      "AI Engineer",
+      "Full Stack Developer",
+      "Data Scientist",
+      "Product Manager",
+      "UI/UX Designer"
+    ],
+    "benefits": [
+      "Competitive salary",
+      "Health insurance",
+      "Flexible working hours",
+      "Remote work options",
+      "Professional development"
+    ],
+    "applicationProcess": "Send resume to careers@premadeinnovation.com or apply through our website",
+    "requirements": "Strong technical skills, passion for innovation, team collaboration"
+  },
+  "contact": {
+    "email": "info@premadeinnovation.com",
+    "careers": "careers@premadeinnovation.com",
+    "support": "support@premadeinnovation.com",
+    "phone": "+1-555-PREMADE",
+    "website": "www.premadeinnovation.com",
+    "linkedin": "linkedin.com/company/premade-innovation"
+  },
+  "technologies": {
+    "Programming Languages": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "TypeScript",
+      "Go"
+    ],
+    "AI/ML Frameworks": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "OpenAI GPT"
+    ],
+    "Web Technologies": [
+      "React",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "Cloud Platforms": [
+      "AWS",
+      "Google Cloud",
+      "Azure"
+    ],
+    "DevOps": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Git"
+    ]
+  }
+}

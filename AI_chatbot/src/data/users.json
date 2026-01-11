@@ -1,0 +1,12 @@
+[
+  {
+    "id": "user_1756550947248_admin",
+    "username": "admin",
+    "password": "admin@123",
+    "name": "Administrator",
+    "email": "admin@123.com",
+    "role": "admin",
+    "registeredAt": "2025-08-30T10:49:07.252Z"
+  }
+
+]
